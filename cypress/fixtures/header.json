@@ -1,0 +1,6 @@
+{ 
+    "Content-Type": "application/json",
+    "Accept": "application/json",
+    "Accept-Encoding": "gzip, deflate, br",
+    "accessToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6IjEyMm9zZGxkaXZpZXJAbWFpbC5jb20iLCJpYXQiOjE2NjkzMTgwNzIsImV4cCI6MTY2OTMyMTY3Miwic3ViIjoiMjEifQ.Ejey3JQCqJFRT_f72cRyAWFPStDoAZnogenBMadODAQ"
+}
